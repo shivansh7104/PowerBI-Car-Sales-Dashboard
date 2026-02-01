@@ -25,7 +25,9 @@ The dataset contains car sales records including:
 - Quantity sold  
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard](https://github.com/user-attachments/assets/f9f945c5-b3ca-4091-b48b-8f59896d6b18)
+
+
 
 ## 🎯 Learning Outcomes
 - Data cleaning and transformation using Power Query  
@@ -35,5 +37,4 @@ The dataset contains car sales records including:
 - Dashboard design and storytelling  
 
 ## 🔗 Connect with Me
-LinkedIn: https://www.linkedin.com/in/your-profile  
-GitHub: https://github.com/your-username
+LinkedIn: www.linkedin.com/in/shivansh-mishra-ds
